@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\bin\Debug\SimpleTCP.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.pdb
