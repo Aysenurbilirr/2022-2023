@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\bin\Debug\Textbox_Label.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\bin\Debug\Textbox_Label.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\bin\Debug\Textbox_Label.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Textbox_Label\Textbox_Label\obj\Debug\Textbox_Label.pdb

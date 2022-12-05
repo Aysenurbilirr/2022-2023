@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textbox_Label", "Textbox_Label\Textbox_Label.csproj", "{B3FF3C62-E494-424B-82EA-420851134778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FF3C62-E494-424B-82EA-420851134778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FF3C62-E494-424B-82EA-420851134778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FF3C62-E494-424B-82EA-420851134778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FF3C62-E494-424B-82EA-420851134778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9AAE3B-1535-49B7-83E8-81E44C96DB7B}
+	EndGlobalSection
+EndGlobal

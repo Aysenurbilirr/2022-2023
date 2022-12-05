@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\bin\Debug\Maskedtextbox_Picturebox.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\bin\Debug\Maskedtextbox_Picturebox.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\bin\Debug\Maskedtextbox_Picturebox.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\obj\Debug\Maskedtextbox_Picturebox.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\obj\Debug\Maskedtextbox_Picturebox.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\obj\Debug\Maskedtextbox_Picturebox.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\obj\Debug\Maskedtextbox_Picturebox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\obj\Debug\Maskedtextbox_Picturebox.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Maskedtextbox_Picturebox\Maskedtextbox_Picturebox\obj\Debug\Maskedtextbox_Picturebox.pdb

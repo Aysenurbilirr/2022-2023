@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\bin\Debug\Combobox_Listbox.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\bin\Debug\Combobox_Listbox.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\bin\Debug\Combobox_Listbox.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.pdb
