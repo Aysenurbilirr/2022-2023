@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\bin\Debug\Bilgi_Yarismasi_Switch-Case.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\bin\Debug\Bilgi_Yarismasi_Switch-Case.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\bin\Debug\Bilgi_Yarismasi_Switch-Case.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch-Case.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch_Case.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch_Case.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch-Case.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch-Case.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Bilgi_Yarismasi_Switch-Case\Bilgi_Yarismasi_Switch-Case\obj\Debug\Bilgi_Yarismasi_Switch-Case.pdb

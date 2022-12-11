@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\bin\Debug\If-Else_Ogrenci_Sinav_Durumu.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\bin\Debug\If-Else_Ogrenci_Sinav_Durumu.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\bin\Debug\If-Else_Ogrenci_Sinav_Durumu.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If-Else_Ogrenci_Sinav_Durumu.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If_Else_Ogrenci_Sinav_Durumu.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If_Else_Ogrenci_Sinav_Durumu.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If-Else_Ogrenci_Sinav_Durumu.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If-Else_Ogrenci_Sinav_Durumu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If-Else_Ogrenci_Sinav_Durumu.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\If-Else_Ogrenci_Sinav_Durumu\If-Else_Ogrenci_Sinav_Durumu\obj\Debug\If-Else_Ogrenci_Sinav_Durumu.pdb

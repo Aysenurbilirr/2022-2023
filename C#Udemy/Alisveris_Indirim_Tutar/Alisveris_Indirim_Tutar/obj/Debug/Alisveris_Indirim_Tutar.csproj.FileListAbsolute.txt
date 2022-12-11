@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\bin\Debug\Alisveris_Indirim_Tutar.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\bin\Debug\Alisveris_Indirim_Tutar.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\bin\Debug\Alisveris_Indirim_Tutar.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Alisveris_Indirim_Tutar\Alisveris_Indirim_Tutar\obj\Debug\Alisveris_Indirim_Tutar.pdb
