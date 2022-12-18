@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Foreach\Foreach\obj\Debug\Foreach.pdb

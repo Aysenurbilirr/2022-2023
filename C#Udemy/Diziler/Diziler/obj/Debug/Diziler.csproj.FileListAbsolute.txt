@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\2022-2023\C#Udemy\Diziler\Diziler\obj\Debug\Diziler.pdb
